@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+My name is NCG. 
 
-Maybe say a some things about yourself.
+On this blog I will be solving and talking about interesting math problems and anything else I want. 
 
-Or maybe what you plan to blog about.
+Hope you enjoy!
