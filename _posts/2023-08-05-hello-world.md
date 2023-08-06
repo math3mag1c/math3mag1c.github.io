@@ -17,7 +17,7 @@ They're files that end in `.md`. That's the magic file ending, and the computer 
 
 #### Headers
 Did you see `Headers` is specially styled just above? That's part of the magic of Markdown. I only wrote this: 
-```markdown
+```
 #### Headers
 ```
 But _Github's Markdown engine™_ can convert that line into a styled Header.
@@ -28,8 +28,8 @@ My `Hello world` header/title at the top has two hashtags before it in my Markdo
 <img src="https://github.com/math3mag1c/math3mag1c.github.io/assets/140988106/b9fe35db-859a-4a3c-88d7-b1d9a529e628" alt="drawing" width="200"/>
 
 That's okay. Maybe check out these resources:
-- https://en.wikipedia.org/wiki/Markdown [a little technical and long but definitely informative]
-- https://youtu.be/qhoXn4bIE1s [a six minute video on Markdown]
+- [a little technical and long but definitely informative](https://en.wikipedia.org/wiki/Markdown)
+- [a six minute video on Markdown](https://youtu.be/qhoXn4bIE1s)
 
 Here's a _clickable_ screenshot of what my Markdown looks like, and you can flip back and forth between that text and what you see on your screen for more context.
 
