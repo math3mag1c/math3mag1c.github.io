@@ -33,7 +33,7 @@ That's okay. Maybe check out these resources:
 
 Here's a _clickable_ screenshot of what my Markdown looks like, and you can flip back and forth between that text and what you see on your screen for more context.
 
-<img src="/assets/img/My Markdown Example.JPG" alt="drawing" width="1000"/>
+<img src="https://math3mag1c.github.io/assets/img/My Markdown Example.JPG" alt="drawing" width="1000"/>
 
 ---
 
