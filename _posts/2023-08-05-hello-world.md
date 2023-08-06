@@ -31,5 +31,10 @@ That's okay. Maybe check out these resources:
 - https://en.wikipedia.org/wiki/Markdown [a little technical and long but definitely informative]
 - https://youtu.be/qhoXn4bIE1s [a six minute video on Markdown]
 
-Here's a screenshot of what my Markdown looks like, and you can flip back and forth between that text and what you see on your screen for more context.
+Here's a _clickable_ screenshot of what my Markdown looks like, and you can flip back and forth between that text and what you see on your screen for more context.
 
+<img src="https://github.com/math3mag1c/math3mag1c.github.io/blob/d7d188fba211c021806cad2f5af593ce15dc70f0/My%20Markdown%20Example.JPG" alt="drawing" width="1000"/>
+
+---
+
+That's all for now on Markdown. Now, let's get into the mathemagic.
