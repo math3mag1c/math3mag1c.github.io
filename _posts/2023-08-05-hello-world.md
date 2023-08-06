@@ -16,11 +16,11 @@ Markdown is a language that's basically just plain text with some useful shortcu
 They're files that end in `.md`. That's the magic file ending, and the computer can take it from there to format the text.
 
 #### Headers
-Did you see `Headers` is bolded just above? That's part of the magic of Markdown. I only wrote this: 
+Did you see `Headers` is specially styled just above? That's part of the magic of Markdown. I only wrote this: 
 ```markdown
 #### Headers
 ```
-But _Github's Markdown engine™_ can convert that line into a bold Header.
+But _Github's Markdown engine™_ can convert that line into a styled Header.
 
 The number of hashtags before the text determines how big the header will be on the page.
 My `Hello world` header/title at the top has two hashtags before it in my Markdown file (ie `## Hello world!`).
